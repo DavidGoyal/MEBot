@@ -11,6 +11,7 @@
 	"description": "",
 	"dependencies": {
 		"@solana/web3.js": "^1.95.8",
+		"axios": "^1.7.9",
 		"bs58": "^6.0.0",
 		"dotenv": "^16.4.7",
 		"tweetnacl": "^1.0.3",
